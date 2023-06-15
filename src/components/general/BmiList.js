@@ -4,6 +4,10 @@ function BmiList() {
   return (
     <>
       <div>BmiList </div>
+      <div>BmiList </div>
+      <div>BmiList </div>
+      <div>BmiList </div>
+      <div>BmiList </div>
     </>
   );
 }
